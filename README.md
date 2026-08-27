@@ -220,12 +220,12 @@ Kisan Setu is being developed to create a more **transparent, efficient, and far
 
 ### 🔗 Team Members
 
-* **Team Member 1** — [GitHub](https://github.com/Zabed05) · [LinkedIn](#)
-* **Team Member 2** — [GitHub](#) · [LinkedIn](#)
-* **Team Member 3** — [GitHub](#) · [LinkedIn](#)
-* **Team Member 4** — [GitHub](#) · [LinkedIn](#)
+* **Team Member 1** — [GitHub](https://github.com/Zabed05) · [LinkedIn](https://www.linkedin.com/in/zabed-khan/)
+* **Team Member 2** — [GitHub](https://github.com/iamkumaresh) · [LinkedIn](#)
+* **Team Member 3** — [GitHub](https://github.com/HRITWIK11) · [LinkedIn](https://www.linkedin.com/in/hritwik-mondal-ba2a47332/)
+* **Team Member 4** — [GitHub](https://github.com/beraa5413-ops) · [LinkedIn](https://www.linkedin.com/in/priyoshree-bera-b5196a303/)
 * **Team Member 5** — [GitHub](#) · [LinkedIn](#)
-* **Team Member 6** — [GitHub](#) · [LinkedIn](#)
+* **Team Member 6** — [GitHub](https://github.com/souranaray-sketch) · [LinkedIn](https://www.linkedin.com/in/sourana-ray-8215b3371/)
 
 ---
 
